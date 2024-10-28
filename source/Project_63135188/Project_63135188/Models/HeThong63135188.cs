@@ -40,7 +40,7 @@ namespace System
       // Khởi tạo cho email
       string from, password, to, subject, body;
       from = "quan.na.63cntt@ntu.edu.vn";
-      password = "@Tienthien10";
+      password = ""; // changed
       to = email;
       subject = "Tạo lại mật khẩu";
       body = "Mã tạo lại mật khẩu của bạn là: " + maTaoLai;
